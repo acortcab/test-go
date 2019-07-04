@@ -1,5 +1,5 @@
 // flag.go
-package main
+package test
 
 import(
 	"flag"
